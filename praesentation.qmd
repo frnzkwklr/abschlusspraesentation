@@ -1,0 +1,289 @@
+---
+title: "Foodtruck-Launch"
+author: "a project by Franziska Winkler"
+format:
+  revealjs:
+    theme: default
+    css: styles.css
+    logo: ara-macao-logo.png 
+    header: "Stand: Juni 2025"
+    footer: "Ara Macao – authentic honduran food"
+    slide-number: true
+    chalkboard: true
+    scrollable: true
+    width: 1920
+    height: 1080
+    margin: 0
+    center: true # WICHTIG: Verhindert, dass Inhalt den Header überlagert
+---
+
+## Das ist Ara Macao 🚐
+
+<div class="columns">
+<div class="column">
+### Das Unternehmen
+
+Ara Macao ist nicht nur ein Foodtruck. Es ist eine **tropische Oase auf Rädern!** Mitten im belebten Raum Stuttgart bringen wir die authentische, pulsierende Lebensfreude von Honduras direkt zu euch. Sobald ihr unsere Musik hört und den Duft unserer frisch zubereiteten Speisen riecht, lasst ihr den Alltag hinter euch und taucht ein in eine kleine, kulinarische Urlaubswelt. 
+Bei uns wird jeder mit einem Lächeln begrüßt, denn wir sind mehr als nur ein Imbiss – wir sind ein **Treffpunkt, eine Community, eine Familie.** ❤️
+
+</div>
+<div class="column">
+
+![](ara%20macao.png)
+
+</div>
+</div>
+
+---
+
+## Das Produkt: Die legendäre Baleada!
+
+Stellt euch das vor: Eine **handgemachte, warme Weizentortilla**, die wir direkt vor euren Augen zubereiten. Darauf verstreichen wir ein samtiges, würziges Püree aus roten Bohnen, das nach einem traditionellen Familienrezept gekocht wird. Gekrönt wird das Ganze mit einem Klecks frischer Crème fraîche und fein zerbröseltem Hirtenkäse.
+
+Das ist unsere Basis-Baleada – **einfach, ehrlich und unglaublich lecker.**
+
+### Veredle dein Geschmackserlebnis!
+
+* Cremige Avocado 🥑
+* Locker-fluffiges Rührei 🥚
+* Hausgemachte eingelegte Zwiebeln 🧅
+* Feurige Chili-Soße 🔥
+
+> Unsere Baleada ist Fast Food, aber gesund. Schnell, aber mit Liebe handgemacht. Einfach, aber eine wahre Geschmacksexplosion.
+
+---
+
+## Status Quo Analyse: Stärken & Schwächen
+
+<div class="columns">
+<div class="column">
+
+### Stärken 💪
+
+* **Alleinstellungsmerkmal (USP):** Die EINZIGEN, die authentisches honduranisches Streetfood anbieten.
+* **Authentizität & Story:** Wir verkaufen nicht nur Essen, sondern eine Kultur.
+* **Produktqualität:** Alles ist frisch und hausgemacht.
+* **Flexibilität:** Das Produkt ist wandelbar (vegetarisch, vegan).
+* **Atmosphäre:** Musik und herzliche Gastfreundschaft.
+
+</div>
+<div class="column">
+
+### Schwächen 🧐
+
+* **Unbekanntheitsgrad:** Das Produkt „Baleada“ muss erklärt werden.
+* **Standortabhängigkeit:** Abhängig von Standorten, Wetter, Genehmigungen.
+* **Marketing-Start bei Null:** Social-Media-Kanäle müssen aufgebaut werden.
+
+</div>
+</div>
+
+---
+
+## Status Quo Analyse: Chancen & Risiken
+
+<div class="columns">
+<div class="column">
+
+### Chancen ✨
+
+* **Neugier-Faktor:** Menschen sind hungrig nach neuen Geschmackserlebnissen.
+* **Community-Aufbau:** Potenzial für eine loyale „Ara Macao Familie“.
+* **Content-Potenzial:** Der Zubereitungsprozess ist perfekter Social-Media-Content.
+* **Kooperationen & Events:** Zusammenarbeit mit Firmen, Festivals und Caterings.
+
+</div>
+<div class="column">
+
+### Risiken 👀
+
+* **Hemmschwelle:** Die Hürde, etwas Unbekanntes zu probieren, muss gesenkt werden.
+* **Wettbewerb:** Der allgemeine Streetfood-Markt ist groß.
+* **Preis-Sensibilität:** Balance zwischen Qualität und attraktivem Preis.
+
+</div>
+</div>
+
+---
+
+## Fazit der Analyse
+
+Ara Macao startet von einer Position der **Stärke durch Einzigartigkeit**.
+
+Die größte Aufgabe ist es, die Bekanntheit des Produkts zu schaffen und die Geschichte dahinter so appetitlich zu erzählen, dass die Neugier siegt.
+
+> Der Schlüssel zum Erfolg liegt in einem **cleveren, authentischen Social-Media-Auftritt**, der die Frische, die Leidenschaft und die Community in den Mittelpunkt stellt.
+
+---
+
+## Value Proposition Canvas
+
+![Platzhalter für das Value Proposition Canvas](https://placehold.co/1200x800/eeeeee/222961?text=Value+Proposition+Canvas+hier+einfügen)
+
+---
+
+## Empathy Map
+
+![Platzhalter für die Empathy Map](https://placehold.co/1200x800/eeeeee/222961?text=Empathy+Map+hier+einfügen)
+
+---
+
+## Business Model Canvas
+
+![Platzhalter für das Business Model Canvas](https://placehold.co/1200x800/eeeeee/222961?text=Business+Model+Canvas+hier+einfügen)
+
+---
+
+## Zielgruppen-Definition
+
+### Das Manifest unserer Community: Für wen wir kochen
+
+Wir kochen nicht einfach nur für "Kunden", wir kochen für unsere **Community**. Für Menschen, die glauben, dass Essen eine Geschichte erzählen und verbinden kann.
+
+Unsere Gäste sind **kulinarische Abenteurer und urbane Lebenskünstler**. Sie suchen nicht nach dem zehnten Burger-Laden, sondern nach dem einen, unvergesslichen Geschmack, den sie noch nicht kannten.
+
+> Für sie ist unsere Baleada nicht nur eine Mahlzeit – sie ist eine Entdeckung. Willkommen in der Familie! ❤️
+
+---
+
+## Persona 1: "Die Geschmacks-Jägerin" – Lena (29)
+
+<div class="columns">
+<div class="column" style="flex-basis: 60%;">
+
+* **Innerer Antrieb:** "Zeig mir was Echtes! Ich will nicht nur essen, ich will fühlen, woher es kommt."
+* **Pain Points:** Food-Langeweile, fehlende Authentizität, Content-Druck.
+* **Medienkonsum:** Instagram (Reels & Stories), TikTok, Food-Blogs.
+* **Unsere Strategie:**
+    * Content mit Seele (Storytelling, Behind-the-Scenes).
+    * Influencer-Marketing mit Herz (persönliche Einladungen).
+    * Exklusivität schaffen (Special Editions).
+
+</div>
+<div class="column" style="flex-basis: 40%;">
+
+![Lena, die Geschmacksjägerin](persona%201.jpg)
+
+</div>
+</div>
+
+---
+
+## Persona 2: "Der Effizienz-Gourmet" – Markus (43)
+
+<div class="columns">
+<div class="column" style="flex-basis: 60%;">
+
+* **Innerer Antrieb:** "Ich brauche etwas, das schnell geht, mich nicht ins Fresskoma versetzt, gesund ist und verdammt gut schmeckt."
+* **Pain Points:** Mittagstief, Zeitdruck, Entscheidungsmüdigkeit.
+* **Medienkonsum:** Google Maps, LinkedIn, Radio.
+* **Unsere Strategie:**
+    * Google Maps Dominanz (Top-Bewertungen, Keywords).
+    * Effizienz-Booster (Pre-Order per WhatsApp).
+    * Loyalität belohnen (digitale Stempelkarte).
+
+</div>
+<div class="column" style="flex-basis: 40%;">
+
+![Markus, der Effizienz-Gourmet](persona%202.jpg)
+
+</div>
+</div>
+
+---
+
+## Persona 3: "Die Erlebnis-Managerin" – Sofia (36)
+
+<div class="columns">
+<div class="column" style="flex-basis: 60%;">
+
+* **Innerer Antrieb:** "Ich möchte mit meiner Familie entspannte, glückliche Momente schaffen."
+* **Pain Points:** "Nörgelfaktor" bei Kindern, stressige Atmosphäre, ungesundes Kinder-Einerlei.
+* **Medienkonsum:** Facebook (lokale Familien-Gruppen), WhatsApp, lokale Blogs.
+* **Unsere Strategie:**
+    * Familienfreundlichkeit zelebrieren.
+    * "Baukasten-Prinzip" bewerben.
+    * Familien-Angebote und lokale Präsenz (Flyer).
+
+</div>
+<div class="column" style="flex-basis: 40%;">
+
+![Sofia, die Erlebnis-Managerin](persona%203.jpg)
+
+</div>
+</div>
+
+---
+
+## Positionierung: Dein Kurzurlaub für die Geschmacksknospen
+
+> Für alle neugierigen Genießer und Alltags-Abenteurer im Raum Stuttgart ist Ara Macao der **einzige Foodtruck**, der mit handgemachten Baleadas einen **authentischen Kurzurlaub nach Honduras** bietet – frisch, gesund und voller lateinamerikanischer Herzlichkeit.
+
+---
+
+## Positionierung: Unsere drei Säulen
+
+<div class="columns">
+<div class="column">
+
+### 1. Genuss-Pionier 🦜
+**Kernbotschaft:** Wir sind das Original. Dein Tor zu einer neuen Geschmackswelt.
+<br>
+* "Entdecke den beliebtesten Streetfood-Schatz aus Honduras!"
+* "Vergiss alles, was du über Tortillas zu wissen glaubst."
+
+</div>
+<div class="column">
+
+### 2. Gesunde Oase ✨
+**Kernbotschaft:** Schnell. Gesund. Und unfassbar lecker. Deine perfekte Pause.
+<br>
+* "Fühl dich gut mit dem, was du isst! Vegetarisch? Vegan? Kein Problem!"
+* "Deine Rettung für den schnellen Hunger."
+
+</div>
+<div class="column">
+
+### 3. Kurzurlaub 🎶
+**Kernbotschaft:** Wir servieren nicht nur Essen, wir teilen Lebensfreude.
+<br>
+* "Zu jeder Baleada eine Portion Urlaubsfeeling gratis dazu!"
+* "Werde Teil unserer Familia!"
+
+</div>
+</div>
+
+---
+
+## SMART-Marketingziele (Erste 6 Monate)
+
+### 1. Steigerung der Markenbekanntheit
+* **Spezifisch:** 1.500 organische Follower auf Instagram, 500 auf TikTok (Raum Stuttgart/Fellbach).
+* **Messbar:** Wöchentliches Tracking der Follower-Zahlen & Reichweite.
+* **Erreichbar:**  Durch regelmäßige, qualitativ hochwertige Posts (3-4 pro Woche auf Instagram, 2-3 Videos auf TikTok), den Einsatz lokaler Hashtags und Kooperationen mit lokalen Micro-Influencern ist dieses Ziel realistisch.
+* **Relevant:**  Eine starke Social-Media-Präsenz ist entscheidend, um die Zielgruppe direkt zu erreichen, Standorte zu kommunizieren und eine Community aufzubauen.
+Zeitgebunden: Innerhalb der ersten 6 Monate nach dem offiziellen Start.
+
+### 2. Kundenakquise & Umsatz
+* **Spezifisch:** Verkaufe durchschnittlich 50 Baleadas pro Tag.
+* **Messbar:** Tägliche Zählung der verkauften Einheiten. (Ziel für die ersten 3 Monate)
+* **Erreichbar:** Durch die Bewerbung der Standorte über Social Media, eine attraktive Preisgestaltung und positive Mundpropaganda ist diese Verkaufsmenge für einen Start realistisch.
+* **Relevant:** Dieses Ziel ist direkt mit dem Kerngeschäft und der Generierung von Umsatz verbunden und sichert die Wirtschaftlichkeit des Foodtrucks.
+Zeitgebunden: Innerhalb der ersten 3 Monate nach dem Start.
+
+### 3. Aufbau einer Community
+* **Spezifisch:** Generiere 50+ positive Google Maps Bewertungen (Ø 4,8 Sterne).
+* **Messbar:** Überwachung im Google My Business Profil.
+* **Erreichbar:** Durch exzellenten Kundenservice, ein herausragendes Produkt und aktive Aufforderungen zur Bewertung (z.B. über kleine Kärtchen am Truck) ist dies erreichbar.
+* **Relevant:** Positive Bewertungen sind ein enorm wichtiger Vertrauensfaktor und beeinflussen die Entscheidung potenzieller Neukunden maßgeblich.
+Zeitgebunden: Innerhalb der ersten 6 Monate.
+
+---
+
+## Lasst uns diese Reise beginnen! {.last-slide-image}
+
+### Und Stuttgart zeigen, wie Honduras schmeckt!
+
+🎶❤️🌮
+
+![](foodtruck.jpeg)

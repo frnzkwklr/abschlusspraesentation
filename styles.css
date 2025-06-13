@@ -1,0 +1,173 @@
+/*-- Ara Macao Foodtruck - Custom CSS für Quarto Präsentation --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,400;0,6..12,700;0,6..12,900;1,6..12,400&display=swap');
+
+/*-- Farbvariablen --*/
+:root {
+  --ara-red: #ec1c24;
+  --ara-yellow: #ffcc02;
+  --ara-blue: #222961;
+  --text-color: #333333;
+  --background-color: #fdfdfd;
+}
+
+/*-- Globale Stile --*/
+.reveal {
+  font-family: 'Nunito Sans', sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  font-size: 30px;
+}
+
+
+/*-- Optionale Klasse für Blocksatz --*/
+.justify-text p, .justify-text li {
+  text-align: justify;
+}
+
+/*-- Header-Anpassung --*/
+.reveal .header {
+  position: absolute;
+  top: 25px;
+  right: 40px;
+  font-size: 0.6em;
+  color: var(--text-color);
+  z-index: 500;
+}
+
+.reveal .slides {
+  position: absolute;
+  top: 80px;
+  bottom: 0;
+  width: 100%;
+  height: calc(100% - 80px);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*-- Logo im Footer --*/
+.reveal .footer .logo {
+  max-height: 110px;
+  bottom: 15px;
+  right: 15px;
+}
+
+/*-- Überschriften --*/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 900;
+  color: var(--ara-blue);
+  text-shadow: none;
+  text-align: left;
+}
+
+.reveal h1 {
+  font-size: 2.8em; 
+  text-align: center;
+}
+
+.reveal h2 { 
+  font-size: 1.9em;
+  border-bottom: 3px solid var(--ara-yellow);
+  padding-bottom: 0.2em;
+  margin-bottom: 0.6em;
+}
+.reveal h3 { font-size: 1.4em; }
+
+
+/*-- Links --*/
+.reveal a {
+  color: var(--ara-red);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.reveal a:hover {
+  color: var(--ara-blue);
+  text-decoration: underline;
+}
+
+/*-- Hervorhebungen und Zitate --*/
+.reveal strong {
+  color: var(--ara-red);
+  font-weight: 700;
+}
+
+.reveal blockquote {
+  border-left: 5px solid var(--ara-yellow);
+  background: #f9f9f9;
+  padding: 15px;
+  font-style: italic;
+  color: var(--ara-blue);
+  text-align: left;
+}
+
+/*-- Listen --*/
+.reveal ul li::marker,
+.reveal ol li::marker {
+  color: var(--ara-red);
+}
+
+/*-- Spalten-Layout für Folien --*/
+.columns {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.column {
+  flex: 1;
+}
+
+/*-- Bildskalierung und Zentrierung --*/
+.reveal .slide img {
+  max-width: 95%;
+  max-height: 65vh; 
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reveal .slide figure {
+  width: 100%;
+}
+.reveal .slide figcaption {
+    text-align: center;
+    font-size: 0.6em;
+    font-style: italic;
+    color: #555;
+    margin-top: 10px;
+}
+
+/*-- Klasse für Folien mit viel Text --*/
+.reveal .slide.smaller {
+    font-size: 0.85em;
+}
+
+/*-- Footer-Anpassung --*/
+.reveal .footer {
+  color: var(--ara-blue);
+  font-size: 0.5em;
+  font-weight: 700;
+}
+/*-- KORRIGIERT: Spezielle Regel für das Bild auf der letzten Folie --*/
+.reveal .slide.last-slide-image img {
+    /* Reset der globalen Regeln */
+    position: none; 
+    transform: none; 
+    max-height: 500px;
+    max-width: 500px;
+  /* Neue Positionierung und Größe */
+    display: block;
+    width: 50%;
+    margin-top: auto; /* Abstand zum Text darüber */
+    margin-left: auto; /* Schiebt das Bild nach rechts */
+    margin-right: 0; /* Kein Abstand zum rechten Rand */
+}
